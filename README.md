@@ -1,5 +1,7 @@
 # Rein
 
+[![Build Status](https://travis-ci.org/a-suenami/rein.svg?branch=travis-ci-for-testing)](https://travis-ci.org/a-suenami/rein)
+
 Database constraints made easy for ActiveRecord. Rein currently supports PostgreSQL and MySQL (foreign keys only) for both Rails 2 & 3.
 
 
